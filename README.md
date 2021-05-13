@@ -6,6 +6,7 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 ## 2021
+* May 4, 2021 [Managing kong configurations using terraform](https://konghq.com/blog/kong-configurations-terraform-gitops/) - [Vaibhav Khurana](https://github.com/vaibhavkhurana2018)
 * Mar 13, 2021 [Solving Metrics at scale with VictoriaMetrics](https://hasgeek.com/bangalore-observability-meetup/march-2021/) - [Vaibhav Khurana](https://github.com/vaibhavkhurana2018)
 * Jan 8, 2021 [The Numbers Behind High Performing Engineering Teams with Varun Achar](https://www.treebotechtalks.com/posts/numbers-behind-high-performance-engineering-teams) - [Varun Achar](https://github.com/varunachar)
 
