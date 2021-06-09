@@ -6,6 +6,7 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 ## 2021
+* Jun 9, 2021 [Simplifying PCI Compliance With Kong Gateway](https://konghq.com/blog/pci-compliance-kong-gateway/) - [Amit Mahbubani](https://github.com/amitmahbubani)
 * May 4, 2021 [Managing kong configurations using terraform](https://konghq.com/blog/kong-configurations-terraform-gitops/) - [Vaibhav Khurana](https://github.com/vaibhavkhurana2018)
 * April 29, 2021 [Deploying With Confidence Using Kong Gateway and Spinnaker](https://konghq.com/blog/kong-gateway-spinnaker/) - [Ashwin Sadeep](https://github.com/ashwinsadeep)
 * Mar 13, 2021 [Solving Metrics at scale with VictoriaMetrics](https://hasgeek.com/bangalore-observability-meetup/march-2021/) - [Vaibhav Khurana](https://github.com/vaibhavkhurana2018)
