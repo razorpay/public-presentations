@@ -6,7 +6,7 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 ## 2021
-* Nov 20, 2021 [3 Mistakes of My Life](https://docs.google.com/presentation/d/1IO06XOrq9pulAG8AtIQIOO0ESMDCV10SYasAZ_QqQos/edit?usp=sharing) - [Smile Gupta](https://twitter.com/smileguptaaa)
+* Nov 20, 2021 3 Mistakes of My Life - [Smile Gupta](https://twitter.com/smileguptaaa)
 * Oct 22, 2021 [Serverless: A Frontend Developer’s Foot into the Cloud](https://www.youtube.com/watch?v=jVY8bE87i70&t=2073s) - [Smile Gupta](https://twitter.com/smileguptaaa)
 * Oct 14, 2021 [Kubecon - How we built a Cloud native Dev stack at scale ](https://kccncna2021.sched.com/event/lV20) - [Srinidhi](https://github.com/srinidhis05), [Venkat V](https://github.com/venkatvghub)
 * Oct 02, 2021 My Journey to Razorpay  - [Smile Gupta](https://twitter.com/smileguptaaa)
