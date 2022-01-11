@@ -5,6 +5,9 @@ We try to keep the list up-to-date.
 
 Please open a Pull Request to add a new public contribution.
 
+# 2022
+* March 03, 2022 Acing the JavaScript Interview - [Smile Gupta](https://twitter.com/smileguptaaa)
+
 ## 2021
 * Nov 20, 2021 3 Mistakes of My Life - [Smile Gupta](https://twitter.com/smileguptaaa)
 * Oct 22, 2021 [Serverless: A Frontend Developer’s Foot into the Cloud](https://www.youtube.com/watch?v=jVY8bE87i70&t=2073s) - [Smile Gupta](https://twitter.com/smileguptaaa)
