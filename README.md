@@ -7,6 +7,7 @@ Please open a Pull Request to add a new public contribution.
 
 # 2022
 * March 03, 2022 Acing the JavaScript Interview - [Smile Gupta](https://twitter.com/smileguptaaa)
+* February 06, 2022 Building a career in frontend development - [Smile Gupta](https://twitter.com/smileguptaaa)
 
 ## 2021
 * Nov 20, 2021 3 Mistakes of My Life - [Smile Gupta](https://twitter.com/smileguptaaa)
