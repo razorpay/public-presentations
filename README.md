@@ -6,7 +6,8 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 # 2022
-* March 03, 2022 Acing the JavaScript Interview - [Smile Gupta](https://twitter.com/smileguptaaa)
+* March 08, 2022 Say Hello to Open Source - [Smile Gupta](https://twitter.com/smileguptaaa)
+* March 06, 2022 Acing the JavaScript Interview - [Smile Gupta](https://twitter.com/smileguptaaa)
 * February 06, 2022 [Building a career in frontend development](https://docs.google.com/presentation/d/1e8naMPhJghbhDdE2VDBsk2JhQ4Etb1-amAPH2aY0kJk/edit?usp=sharing) - [Smile Gupta](https://twitter.com/smileguptaaa)
 
 ## 2021
