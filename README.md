@@ -6,6 +6,7 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 # 2022
+* March 12, 2022 [Composition over Context](https://youtu.be/IJZFtwZgXd0) - [Prateek Gogia](https://github.com/reeversedev)
 * March 12, 2022 [Building SSG Around Vite Ecosystem](https://youtu.be/WvrJcL6Sj5g) - [Saurabh Daware](https://github.com/saurabhdaware)
 * March 08, 2022 Say Hello to Open Source - [Smile Gupta](https://www.canva.com/design/DAE6W9HGOoE/EmlLEbjUk3bJQDqzehr_0A/edit?utm_content=DAE6W9HGOoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * March 06, 2022 Acing the JavaScript Interview - [Smile Gupta](https://docs.google.com/presentation/d/17NaHcRlCRMVGg5Ri4PPPN_NCMydMUQ5d_T03QyrweEs/edit?usp=sharing)
