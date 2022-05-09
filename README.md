@@ -6,8 +6,10 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 # 2022
+* March 12, 2022 [Building SSG Around Vite Ecosystem](https://youtu.be/WvrJcL6Sj5g) - [Saurabh Daware](https://github.com/saurabhdaware)
 * March 08, 2022 Say Hello to Open Source - [Smile Gupta](https://www.canva.com/design/DAE6W9HGOoE/EmlLEbjUk3bJQDqzehr_0A/edit?utm_content=DAE6W9HGOoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 * March 06, 2022 Acing the JavaScript Interview - [Smile Gupta](https://docs.google.com/presentation/d/17NaHcRlCRMVGg5Ri4PPPN_NCMydMUQ5d_T03QyrweEs/edit?usp=sharing)
+* February 24, 2022 [Podcast About Static-Site-Generators and Abell with HackerRank](https://youtu.be/_hRsQb9wgjc) - [Saurabh Daware](https://github.com/saurabhdaware)
 * February 06, 2022 [Building a career in frontend development](https://docs.google.com/presentation/d/1e8naMPhJghbhDdE2VDBsk2JhQ4Etb1-amAPH2aY0kJk/edit?usp=sharing) - [Smile Gupta](https://twitter.com/smileguptaaa)
 
 ## 2021
@@ -21,6 +23,7 @@ Please open a Pull Request to add a new public contribution.
 * Aug 21, 2021 [Getting Started with Github and Open Source](https://docs.google.com/presentation/d/1QZJIfkkMDq7OcKh0OAXVTuKZ5iiNDIsP-AZvMmT6zFA/edit?usp=sharing) - [Smile Gupta](https://twitter.com/smileguptaaa)
 * Aug 2021 - present [Weekly newsletter on AppSec](https://boringappsec.substack.com/) - [Sandesh Mysore Anand](https://github.com/sandeshRazorpay)
 * Jun 9, 2021 [Simplifying PCI Compliance With Kong Gateway](https://konghq.com/blog/pci-compliance-kong-gateway/) - [Amit Mahbubani](https://github.com/amitmahbubani)
+* Jun 9, 2021 [Progate Learning Jam: Hands on JavaScript](https://youtu.be/idy557I0-BI) - [Saurabh Daware](https://github.com/saurabhdaware)
 * May 4, 2021 [Managing kong configurations using terraform](https://konghq.com/blog/kong-configurations-terraform-gitops/) - [Vaibhav Khurana](https://github.com/vaibhavkhurana2018)
 * April 29, 2021 [Deploying With Confidence Using Kong Gateway and Spinnaker](https://konghq.com/blog/kong-gateway-spinnaker/) - [Ashwin Sadeep](https://github.com/ashwinsadeep)
 * Mar 13, 2021 [Solving Metrics at scale with VictoriaMetrics](https://hasgeek.com/bangalore-observability-meetup/march-2021/) - [Vaibhav Khurana](https://github.com/vaibhavkhurana2018)
