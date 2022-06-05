@@ -14,7 +14,7 @@ Please open a Pull Request to add a new public contribution.
 * February 06, 2022 [Building a career in frontend development](https://docs.google.com/presentation/d/1e8naMPhJghbhDdE2VDBsk2JhQ4Etb1-amAPH2aY0kJk/edit?usp=sharing) - [Smile Gupta](https://twitter.com/smileguptaaa)
 
 ## 2021
-* Dec 16,2021 [AI powered Smart routing for payments](https://underline.io/events/222/sessions/9871/lecture/42390-an-ai-powered-smart-routing-solution-for-payment-systems) - [Aayush Gupta](https://twitter.com/aayushguptaa)
+* Dec 16,2021 [AI powered Smart routing for payments](https://drive.google.com/file/d/1fCa2WYGqQkdghHXfXSrbQe6x4jHjJpkk/view?usp=sharing) - [Aayush Gupta](https://twitter.com/aayushguptaa)
 * Oct 21, 2021 [Dynamic Smart Routing for Payments](https://app.aiplus.training/courses/take/dynamic-smart-ruting-for-payments/lessons/29115030-webinar-recording#) - [Aayush Gupta](https://twitter.com/aayushguptaa) & [Ramya Bygari](https://twitter.com/RamyaBygari)
 * Nov 20, 2021 3 Mistakes of My Life - [Smile Gupta](https://twitter.com/smileguptaaa)
 * Oct 22, 2021 [Serverless: A Frontend Developer’s Foot into the Cloud](https://www.youtube.com/watch?v=jVY8bE87i70&t=2073s) - [Smile Gupta](https://twitter.com/smileguptaaa)
