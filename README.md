@@ -6,6 +6,9 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 # 2022
+* July 24, 2022 [How do we get a FOSS UPI mobile app](https://docs.google.com/presentation/d/1cRZjDAMK_ihQ4RK3Rd3lwjdsFqN3-vM1OOJ2N7_FTaM/) - [Nemo](https://github.com/captn3m0)
+* July 23, 2022 [IndiaFOSS: My learnings from building Blaze as a FOSS project](https://docs.google.com/presentation/d/1Yz64CpLruE8gxgvRLHkIl-LC2NaYIQtD72eIRmFnczQ) - [Akash Hamirwasia](https://github.com/blenderskool)
+* June 11, 2022 FOSS United Meetup, BLR [endoflife.date recommendations](https://docs.google.com/presentation/d/10qpSY3CYK83omwoGsbPz1VzCgVCG2e6_XPiN24BqxtM/) - [Nemo](https://github.com/captn3m0)
 * March 12, 2022 [Composition over Context](https://youtu.be/IJZFtwZgXd0) - [Prateek Gogia](https://github.com/reeversedev)
 * March 12, 2022 [Building SSG Around Vite Ecosystem](https://youtu.be/WvrJcL6Sj5g) - [Saurabh Daware](https://github.com/saurabhdaware)
 * March 08, 2022 Say Hello to Open Source - [Smile Gupta](https://www.canva.com/design/DAE6W9HGOoE/EmlLEbjUk3bJQDqzehr_0A/edit?utm_content=DAE6W9HGOoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
