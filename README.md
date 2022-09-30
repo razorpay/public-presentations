@@ -6,6 +6,9 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 # 2022
+* Sep 24, 2022 [The sorcery of building a cross-platform design system architecture](https://youtu.be/Hy11T_eoUHg?t=13002) - [Kamlesh Chandnani](https://twitter.com/_kamlesh_)
+* Sep 23, 2022 [Calm down your overreactive forms with uncontrolled components](https://youtu.be/w2MQzZ1dSZY?t=32920) - [Akash Hamirwasia](https://akashhamirwasia.com)
+* Sep 22, 2022 Animations in React Made Easy! - [Smile Gupta](https://twitter.com/smileguptaaa)
 * July 24, 2022 [How do we get a FOSS UPI mobile app](https://docs.google.com/presentation/d/1cRZjDAMK_ihQ4RK3Rd3lwjdsFqN3-vM1OOJ2N7_FTaM/) - [Nemo](https://github.com/captn3m0)
 * July 23, 2022 [IndiaFOSS: My learnings from building Blaze as a FOSS project](https://docs.google.com/presentation/d/1Yz64CpLruE8gxgvRLHkIl-LC2NaYIQtD72eIRmFnczQ) - [Akash Hamirwasia](https://github.com/blenderskool)
 * June 11, 2022 FOSS United Meetup, BLR [endoflife.date recommendations](https://docs.google.com/presentation/d/10qpSY3CYK83omwoGsbPz1VzCgVCG2e6_XPiN24BqxtM/) - [Nemo](https://github.com/captn3m0)
