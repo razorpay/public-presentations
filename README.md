@@ -6,6 +6,7 @@ We try to keep the list up-to-date.
 Please open a Pull Request to add a new public contribution.
 
 # 2022
+* Nov 26, 2022 [Measuring the success of your design system](https://www.youtube.com/watch?v=QSefv-2ZSXY&t=1073s) - [Chaitanya Deorukhkar](https://twitter.com/_anothercoder)
 * Sep 24, 2022 [The sorcery of building a cross-platform design system architecture](https://youtu.be/Hy11T_eoUHg?t=13002) - [Kamlesh Chandnani](https://twitter.com/_kamlesh_)
 * Sep 23, 2022 [Calm down your overreactive forms with uncontrolled components](https://youtu.be/w2MQzZ1dSZY?t=32920) - [Akash Hamirwasia](https://akashhamirwasia.com)
 * Sep 22, 2022 Animations in React Made Easy! - [Smile Gupta](https://twitter.com/smileguptaaa)
